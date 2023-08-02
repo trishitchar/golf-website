@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "montserrat";
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
 
@@ -54,4 +54,24 @@ video{
   flex-direction: column;
   text-align: center;
   z-index: 10;
+}
+
+#page1 h1{
+    font-size: 140px;
+    font-weight: 900;
+}
+
+#page1 h1{
+
+}
+#page1 h2{
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#page1 p{
+    font-size: 22px;
+    font-weight: 500;
+    width: 50%;
 }

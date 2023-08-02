@@ -147,7 +147,6 @@ html, body {
 #about-us {
     height: 40vh;
     width: 100%;
-    /* background-color: red; */
     display: flex;
     padding: 0 50px;
     align-items: center;

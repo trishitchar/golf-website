@@ -173,4 +173,23 @@ html, body {
     font-size: 20px;
     line-height: 26px;
   }
-  
+#cards-container{
+  background-color: red;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  position: relative;
+  z-index: 10;
+}
+.card{
+  height: 80%;
+  width: 24%;
+  background-color: black;
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  transition: all ease 0.6;
+}
